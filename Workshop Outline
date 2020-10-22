@@ -1,0 +1,48 @@
+Outline for the content of the workshop:
+Day 1
+9:00-9:45 - Section 1 - Overview of ecosystem.
+Focusing on the specific journeys we will address. 
+9:45-1:00 - Section 2 - Tools and resources for the Biologist
+Query and exploration of gene, cell, anatomic region.
+Might include information about expression, regulation
+Show global as well as local context
+Hands-on exercises with tools
+No programming required
+Tentative Schedule for Section 2
+-9:45-10:45 biotool 1
+-10:45 - 11:00 break
+-11:00 -12:00 biotools 2 and 3
+-12:00-1:00 lunch with Gap Analysis (Genome Browser/ECO discussion)
+1:00-5:00 - Section 3 - Tools and resources for the Bioinformatician
+Show how to find raw or derived data and download it so it can be used by tools/libraries such as ScanPy and Seurat
+Move it to a computational infrastructure such as Terra
+Show how a user can upload data and use the tools/pipelines developed by BICCN
+Tentative Schedule for Section 3
+1:00-1:45  - data download and usability
+1:45 - 2:00 break
+2:00-5:00 Terra tutorial [BCDC Cloud Computing] (with break)
+5:00-5:30 Workshop Wrap up and Conclusion
+Possible Day 2
+Science talks AM
+Posters PM
+
+Proposed Tools:
+Section 2 - Biotools
+Epigenetic data
+Brainome
+Epiviz
+Genome Browser
+UCSC Browser (BCDC)
+Epigenome Browser (??)
+Data mining/curation tools
+NeMO Analytics
+Broad Single Cell Portal
+Section 3 - Bioinformatician tools
+Data downloading use case (NeMO)
+Manifest-based downloads
+RESTful API for downloads
+Package like TCGABiolinks for downloads
+Data processing use case (Terra)
+Move data to Terra
+Use standard pipeline
+Use Jupyter notebooks
